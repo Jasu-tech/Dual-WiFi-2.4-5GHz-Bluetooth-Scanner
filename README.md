@@ -1,6 +1,6 @@
 # Dual WiFi 2.4-5GHz & Bluetooth Scanner
 
-WiFi 2.4 - 5 GHz + Bluetooth Scanner whit RTL8720DN BW16 - SOFTWARE SPI TOUCH VERSION!
+WiFi 2.4 - 5 GHz + Bluetooth Scanner whit RTL8720DN BW16 - TOUCH VERSION!
 
 Arduino_GFX + Hardware SPI (40MHz) + Native U8g2 Fonts + English UI + Touch 
 --------------------------------------------------------------------------------------

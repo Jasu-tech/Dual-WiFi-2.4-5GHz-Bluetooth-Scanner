@@ -11,8 +11,7 @@ Arduino_GFX + Hardware SPI (40MHz) + Native U8g2 Fonts + English UI + Touch
   - Native U8g2 font support
   - XPT2046 Touch Screen (resistive, manual Software SPI)
    
-  Wiring:
-  ST7789 Touch Screen TFT Display (HARDWARE SPI):
+  Wiring: ST7789 Touch Screen TFT Display (HARDWARE SPI):
   
  * VCC  -> 3.3V
  *   GND  -> GND
@@ -22,8 +21,8 @@ Arduino_GFX + Hardware SPI (40MHz) + Native U8g2 Fonts + English UI + Touch
  *   DC   -> PA25 (pin 7)  - Data/Command
  *   RST  -> PA26 (pin 8)  - Display Reset
  *   BLK  -> PA30 (pin 3)  - Backlight (lookup the J1 in back of you TFT for VCC 3.3V or 5V)
-   
-   XPT2046 Touch Screen (SOFTWARE SPI - separate pins!):
+
+   Touch Screen (SOFTWARE SPI - separate pins!):
  *   T_VCC -> 3.3V
  *   T_GND -> GND
  *   T_CLK -> PB2  (pin 5)  - Software SPI Clock

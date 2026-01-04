@@ -14,8 +14,7 @@ Arduino_GFX + Hardware SPI (40MHz) + Native U8g2 Fonts + English UI + Touch
   - Native U8g2 font support
   - XPT2046 Touch Screen (resistive, manual Software SPI)
 
-![WiFi_BLE_Scanner_BW16_04](https://github.com/user-attachments/assets/47af08f6-ed56-4a02-b562-64bb4106e20f)
-
+![WiFi_BLE_Scanner_BW16_04](https://github.com/user-attachments/assets/0d5b624b-4cc7-49b4-84a7-966727bdec98)
 
   Wiring: ST7789 Touch Screen TFT Display (HARDWARE SPI):
   

@@ -1,4 +1,4 @@
-# Dual-WiFi-2.4-5GHz-Bluetooth-Scanner
+# Dual WiFi-2.4-5GHz & Bluetooth-Scanner
 
 WiFi 2.4 & 5 GHz + Bluetooth Scanner whit RTL8720DN BW16 - SOFTWARE SPI TOUCH VERSION!
 

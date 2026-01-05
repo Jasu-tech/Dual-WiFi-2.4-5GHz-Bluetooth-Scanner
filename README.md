@@ -8,7 +8,7 @@ Arduino_GFX + Hardware SPI (40MHz) + Native U8g2 Fonts + English UI + Touch
  ![WiFi_BLE_Scanner_BW16_02](https://github.com/user-attachments/assets/6bb29080-014e-47c0-a19d-84aad29400c5)
  --------------------------------------------------------------------------------------
  WIFIBLE is...
-  ULTRA FAST: 50-100x faster than Software SPI (display only)!
+  - ULTRA FAST: 50-100x faster than Software SPI (display only)!
   - Hardware SPI @ 40MHz for Display
   - Software SPI for Touch (separate pins, no conflicts!)
   - Arduino_GFX_Library (optimation to AmebaD)
